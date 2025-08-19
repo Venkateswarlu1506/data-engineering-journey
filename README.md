@@ -85,3 +85,161 @@ This repo is my **learning log + portfolio** to track projects, progress, and sk
 ---
 
 💡 **Tip**: Update this README every time you finish a milestone → it shows growth over time.
+-----------------------------------------------------------------------------------
+1. Python Foundations for Data Engineering
+
+Variables, data types, operators
+
+Control structures (if, for, while)
+
+Functions & modules
+
+File handling (CSV, JSON, XML, TXT, Excel)
+
+Error handling & logging (logging module)
+
+Python libraries:
+
+pandas → for data manipulation
+
+numpy → for numerical computations
+
+os, pathlib → for file system interaction
+
+requests → for APIs
+
+json, csv → structured/unstructured data
+
+2. Working with Databases (SQL + Python Integration)
+
+SQL basics: SELECT, INSERT, UPDATE, DELETE
+
+Joins, Aggregations, Window functions
+
+Database design (normalization, primary keys, indexes)
+
+Python connectors:
+
+sqlite3
+
+pyodbc / psycopg2 (Postgres)
+
+sqlalchemy (ORM)
+
+ETL with SQL + Python (extract from DB, transform in Python, load back)
+
+3. Data Formats & Sources
+
+CSV, TSV
+
+JSON, XML
+
+Parquet, ORC (big data formats)
+
+APIs (REST, GraphQL)
+
+Web scraping (BeautifulSoup, Scrapy)
+
+Streaming data (Kafka basics)
+
+4. Data Transformation & Processing
+
+Batch Processing:
+
+Pandas transformations
+
+PySpark (for large datasets)
+
+Dask (parallel computing)
+
+Streaming Processing:
+
+Kafka + Python consumers
+
+Spark Structured Streaming
+
+5. Data Storage Systems
+
+Relational Databases (Postgres, MySQL, SQL Server)
+
+NoSQL Databases:
+
+MongoDB (document-based)
+
+Cassandra (wide-column)
+
+Redis (in-memory)
+
+Data Lakes: Store raw files in S3, Azure Data Lake, GCP Storage
+
+Data Warehouses: Snowflake, BigQuery, Azure Synapse, Redshift
+
+6. Data Pipelines & Orchestration
+
+ETL vs ELT concepts
+
+Workflow orchestration tools:
+
+Apache Airflow
+
+Prefect
+
+Luigi
+
+Scheduling & monitoring pipelines
+
+7. Big Data & Distributed Computing
+
+Hadoop ecosystem (HDFS, MapReduce basics)
+
+Spark (PySpark for transformations, joins, aggregations)
+
+Delta Lake / Lakehouse concepts
+
+8. Cloud & Modern Data Engineering
+
+Azure (Databricks, Data Factory, Synapse)
+
+AWS (Glue, Redshift, S3)
+
+GCP (BigQuery, Dataflow, Pub/Sub)
+
+Docker (containerization)
+
+Kubernetes (for scaling pipelines)
+
+9. Version Control & CI/CD
+
+Git & GitHub/GitLab
+
+Branching, merging, pull requests
+
+CI/CD basics (Jenkins, GitHub Actions, GitLab CI)
+
+10. Data Engineering Best Practices
+
+Data quality & validation
+
+Partitioning & bucketing for big data
+
+Schema evolution
+
+Handling duplicates & missing data
+
+Logging & monitoring (Prometheus, Grafana)
+
+✅ Learning Path Suggestion for You:
+
+Python basics → Pandas/Numpy → File handling
+
+SQL + Python integration
+
+Data formats (CSV, JSON, Parquet)
+
+ETL project with Pandas + SQL
+
+PySpark (batch + streaming)
+
+Orchestration (Airflow/Prefect)
+
+Cloud platform (Databricks on Azure would be perfect for you 🚀)
