@@ -44,9 +44,9 @@ By the end of this module, you will:
 - Integrate Python and SQL to create **ETL pipelines and analytics workflows**.
 
 ## Git Commands for Windows power shell sequence
--cd C:\Users\Venkatesh\data-engineering-journey
--git status
--git add.
--git commit -m "your comment section" 
--git add. 
--git push
+-**cd C:\Users\Venkatesh\data-engineering-journey
+-**git status
+-**git add.
+-**git commit -m "your comment section" 
+-**git add. 
+-**git push
