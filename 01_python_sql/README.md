@@ -43,10 +43,10 @@ By the end of this module, you will:
 - Understand and write **SQL queries** for data extraction & manipulation.  
 - Integrate Python and SQL to create **ETL pipelines and analytics workflows**.
 
-- Git Commands for Windows poer sheel
-cd C:\Users\Venkatesh\data-engineering-journey
-git status
-git add.
-git commit -m "your comment section" 
-git add. 
-git push
+## Git Commands for Windows power shell sequence
+-cd C:\Users\Venkatesh\data-engineering-journey
+-git status
+-git add.
+-git commit -m "your comment section" 
+-git add. 
+-git push
