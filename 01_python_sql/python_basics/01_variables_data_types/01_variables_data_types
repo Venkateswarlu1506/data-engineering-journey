@@ -1,0 +1,280 @@
+01_variables_data_types
+1. Variables
+
+A variable is a name that stores a value in memory.
+
+In Python, you don’t need to declare types explicitly; Python is dynamically typed.
+
+# Examples of variables
+name = "Venkatesh"   # String
+age = 30             # Integer
+height = 5.5         # Float
+is_married = True    # Boolean
+
+print(name, age, height, is_married)
+
+
+✅ Key points:
+
+Variable names must start with a letter or underscore.
+
+No spaces or special characters (except _).
+
+Case-sensitive: Age ≠ age.
+----------------------
+2. Data Types
+
+Python has common data types:
+
+Data Type	Example	Description
+int	10	Whole numbers
+float	3.14	Decimal numbers
+str	"hello"	Text
+bool	True/False	Boolean value
+list	[1,2,3]	Ordered collection
+tuple	(1,2,3)	Immutable ordered collection
+dict	{"a":1}	Key-value pairs
+set	{1,2,3}	Unique unordered elements
+# Examples
+x = 10          # int
+y = 3.14        # float
+z = "Python"    # str
+flag = True     # bool
+
+print(type(x), type(y), type(z), type(flag))
+
+
+. Numeric Types
+a) int (Integer)
+
+Whole numbers, positive or negative, no decimal part.
+
+Example:
+
+age = 30
+quantity = 120
+
+
+Use cases in data engineering:
+
+Counting rows, number of items sold, IDs, primary keys.
+
+b) float (Floating Point)
+
+Numbers with decimal points.
+
+Example:
+
+price = 10.5
+temperature = 36.6
+
+
+Use cases:
+
+Monetary calculations, percentages, averages, sensor readings, weights.
+
+c) complex
+
+Numbers with real and imaginary parts.
+
+Example:
+
+z = 2 + 3j
+
+
+Use cases: Rare in standard data engineering; mostly scientific computing.
+
+2. Text Type
+str (String)
+
+Sequence of characters enclosed in quotes.
+
+Example:
+
+name = "Venkatesh"
+location = "Hyderabad"
+
+
+Use cases:
+
+Customer names, emails, product names, JSON keys, text data from APIs or logs.
+
+Operations:
+
+Concatenation: "Hello " + "World"
+
+Length: len(name)
+
+Upper/Lower: name.upper(), name.lower()
+
+3. Boolean Type
+bool
+
+Represents True or False values.
+
+Example:
+
+is_active = True
+is_married = False
+
+
+Use cases:
+
+Flags for active/inactive users, validation checks, conditional logic in ETL pipelines.
+
+4. Sequence Types
+a) list
+
+Ordered, mutable collection.
+
+Example:
+
+fruits = ["Mango", "Apple", "Banana"]
+fruits[0] = "Orange"  # lists can be changed
+
+
+Use cases:
+
+Temporary storage of rows or columns, batch processing, storing multiple values before saving to database.
+
+b) tuple
+
+Ordered, immutable collection.
+
+Example:
+
+coordinates = (10.5, 20.3)
+
+
+Use cases:
+
+Fixed configuration values, database keys, returning multiple values from a function.
+
+c) range
+
+Represents a sequence of numbers.
+
+Example:
+
+for i in range(5):
+    print(i)
+
+
+Use cases:
+
+Looping over indices, generating incremental IDs.
+
+5. Mapping Type
+dict (Dictionary)
+
+Key-value pairs, unordered (Python 3.7+ maintains insertion order).
+
+Example:
+
+person = {"name": "Venkatesh", "age": 30, "city": "Hyderabad"}
+print(person["name"])
+
+
+Use cases:
+
+Storing JSON-like data, configuration parameters, mapping IDs to values in ETL pipelines.
+
+6. Set Types
+a) set
+
+Unordered collection of unique elements.
+
+Example:
+
+unique_ids = {101, 102, 103}
+
+
+Use cases:
+
+Removing duplicates, membership testing, grouping unique values in data processing.
+
+b) frozenset
+
+Immutable set.
+
+Example:
+
+fs = frozenset([1, 2, 3])
+
+
+Use cases:
+
+Use as dictionary keys, store constant unique values.
+
+7. None Type
+NoneType
+
+Represents the absence of a value.
+
+Example:
+
+middle_name = None
+
+
+Use cases:
+
+Missing data in pipelines, default function arguments, placeholders in ETL processes.
+
+| Data Type | Mutable? | Example           | Use Case in Data Engineering             |
+| --------- | -------- | ----------------- | ---------------------------------------- |
+| int       | No       | 10                | IDs, counts, rows                        |
+| float     | No       | 3.14              | Prices, percentages, weights             |
+| str       | No       | "Venkatesh"       | Names, text, JSON keys                   |
+| bool      | No       | True              | Flags, conditional checks                |
+| list      | Yes      | \[1,2,3]          | Batch data, temporary storage            |
+| tuple     | No       | (1,2,3)           | Fixed configurations, function returns   |
+| dict      | Yes      | {"a":1}           | JSON data, mappings, ETL transformations |
+| set       | Yes      | {1,2,3}           | Removing duplicates, unique values       |
+| frozenset | No       | frozenset(\[1,2]) | Constant unique collections              |
+| NoneType  | No       | None              | Missing data, placeholders               |
+
+------------------------------------------------------------------------------------------
+3. Operators
+
+Python supports arithmetic, comparison, logical, and assignment operators.
+
+Arithmetic Operators
+a = 10
+b = 3
+
+print(a + b)   # 13
+print(a - b)   # 7
+print(a * b)   # 30
+print(a / b)   # 3.3333
+print(a // b)  # 3 (floor division)
+print(a % b)   # 1 (remainder)
+print(a ** b)  # 1000 (power)
+
+Comparison Operators
+print(a == b)  # False
+print(a != b)  # True
+print(a > b)   # True
+print(a < b)   # False
+
+Logical Operators
+x = True
+y = False
+
+print(x and y)  # False
+print(x or y)   # True
+print(not x)    # False
+
+Assignment Operators
+c = 5
+c += 2   # c = c + 2
+c *= 3   # c = c * 3
+print(c)
+----------------------------------------------------------------------------------------
+4. Type Conversion
+
+Convert data types using int(), float(), str(), bool()
+
+num_str = "100"
+num_int = int(num_str)
+num_float = float(num_str)
+print(num_int + 10, num_float + 0.5)
