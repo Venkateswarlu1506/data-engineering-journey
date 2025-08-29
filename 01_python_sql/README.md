@@ -49,4 +49,5 @@ By the end of this module, you will:
 -**git add.
 -**git commit -m "your comment section" 
 -**git add. 
+_**git push -u origin main
 -**git push
