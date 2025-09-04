@@ -1,0 +1,23 @@
+[
+  {"empid":1,
+   "empname":"JOHN",
+   "salary":10000,
+	"phone":[
+						{
+							"mobile":137836276,
+							"home":82938923
+							}
+							]	
+	}
+    ,
+  {"empid":2,
+   "empname":"AMAN",
+	"salary":20000,
+	"phone":[
+					{
+						"mobile":631763156,
+						"home":317873178
+						}
+						]	
+	}
+  ]

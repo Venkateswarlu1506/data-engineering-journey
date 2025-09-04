@@ -1,0 +1,1001 @@
+OrderDate,ProductKey,Country,EnglishProductName,SalesAmount,TaxAmt
+02-01-2021,222,France,"Sport-100 Helmet, Blue",34.99,2.7992
+03-01-2021,480,Australia,Patch Kit/8 Patches,2.29,0.1832
+03-01-2021,217,India,"Sport-100 Helmet, Black",34.99,2.7992
+03-01-2021,569,Germany,"Touring-3000 Yellow, 50",742.35,59.388
+03-01-2021,375,France,"Road-250 Black, 48",2181.5625,174.525
+05-01-2021,566,Australia,"Touring-3000 Blue, 58",742.35,59.388
+06-01-2021,538,France,LL Road Tire,21.49,1.7192
+06-01-2021,480,Germany,Patch Kit/8 Patches,2.29,0.1832
+07-01-2021,485,Australia,Fender Set - Mountain,21.98,1.7584
+08-01-2021,528,Australia,Mountain Tire Tube,4.99,0.3992
+09-01-2021,489,France,"Short-Sleeve Classic Jersey, M",53.99,4.3192
+12-01-2021,481,Italy,"Racing Socks, M",8.99,0.7192
+13-01-2021,485,Germany,Fender Set - Mountain,21.98,1.7584
+13-01-2021,474,Italy,"Women's Mountain Shorts, S",69.99,5.5992
+15-01-2021,478,France,Mountain Bottle Cage,9.99,0.7992
+18-01-2021,214,United States,"Sport-100 Helmet, Red",34.99,2.7992
+18-01-2021,537,Italy,HL Mountain Tire,35,2.8
+19-01-2021,529,India,Road Tire Tube,3.99,0.3192
+19-01-2021,465,India,"Half-Finger Gloves, M",24.49,1.9592
+20-01-2021,582,Australia,"Road-350-W Yellow, 44",1700.99,136.0792
+20-01-2021,528,India,Mountain Tire Tube,4.99,0.3992
+21-01-2021,353,Germany,"Mountain-200 Silver, 38",2319.99,185.5992
+21-01-2021,536,India,ML Mountain Tire,29.99,2.3992
+23-01-2021,480,United States,Patch Kit/8 Patches,2.29,0.1832
+24-01-2021,310,India,"Road-150 Red, 62",3578.27,286.2616
+30-01-2021,538,Australia,LL Road Tire,21.49,1.7192
+01-02-2021,360,Australia,"Mountain-200 Black, 42",2049.0982,163.9279
+01-02-2021,478,Australia,Mountain Bottle Cage,9.99,0.7992
+02-02-2021,480,Germany,Patch Kit/8 Patches,2.29,0.1832
+02-02-2021,234,Australia,"Long-Sleeve Logo Jersey, L",49.99,3.9992
+04-02-2021,473,Italy,"Classic Vest, L",63.5,5.08
+05-02-2021,222,France,"Sport-100 Helmet, Blue",34.99,2.7992
+06-02-2021,477,Germany,Water Bottle - 30 oz.,4.99,0.3992
+06-02-2021,562,Canada,"Touring-1000 Yellow, 50",2384.07,190.7256
+07-02-2021,485,United States,Fender Set - Mountain,21.98,1.7584
+07-02-2021,214,Canada,"Sport-100 Helmet, Red",34.99,2.7992
+08-02-2021,225,France,AWC Logo Cap,8.99,0.7192
+09-02-2021,535,Canada,LL Mountain Tire,24.99,1.9992
+09-02-2021,484,Italy,Bike Wash - Dissolver,7.95,0.636
+13-02-2021,535,Germany,LL Mountain Tire,24.99,1.9992
+17-02-2021,528,France,Mountain Tire Tube,4.99,0.3992
+17-02-2021,590,United States,"Mountain-400-W Silver, 46",769.49,61.5592
+17-02-2021,529,United States,Road Tire Tube,3.99,0.3192
+17-02-2021,467,Canada,"Half-Finger Gloves, L",24.49,1.9592
+17-02-2021,539,France,ML Road Tire,24.99,1.9992
+21-02-2021,477,Germany,Water Bottle - 30 oz.,4.99,0.3992
+21-02-2021,477,United States,Water Bottle - 30 oz.,4.99,0.3992
+21-02-2021,485,Italy,Fender Set - Mountain,21.98,1.7584
+25-02-2021,214,Canada,"Sport-100 Helmet, Red",34.99,2.7992
+25-02-2021,537,Canada,HL Mountain Tire,35,2.8
+25-02-2021,528,France,Mountain Tire Tube,4.99,0.3992
+26-02-2021,477,Germany,Water Bottle - 30 oz.,4.99,0.3992
+27-02-2021,477,Canada,Water Bottle - 30 oz.,4.99,0.3992
+27-02-2021,222,United States,"Sport-100 Helmet, Blue",34.99,2.7992
+27-02-2021,222,United States,"Sport-100 Helmet, Blue",34.99,2.7992
+28-02-2021,382,Australia,"Road-550-W Yellow, 38",1120.49,89.6392
+28-02-2021,465,India,"Half-Finger Gloves, M",24.49,1.9592
+02-03-2021,225,Australia,AWC Logo Cap,8.99,0.7192
+03-03-2021,477,Italy,Water Bottle - 30 oz.,4.99,0.3992
+03-03-2021,528,United States,Mountain Tire Tube,4.99,0.3992
+04-03-2021,528,France,Mountain Tire Tube,4.99,0.3992
+05-03-2021,529,Italy,Road Tire Tube,3.99,0.3192
+07-03-2021,353,Canada,"Mountain-200 Silver, 38",2319.99,185.5992
+07-03-2021,214,Canada,"Sport-100 Helmet, Red",34.99,2.7992
+08-03-2021,479,India,Road Bottle Cage,8.99,0.7192
+08-03-2021,359,India,"Mountain-200 Black, 38",2294.99,183.5992
+09-03-2021,528,Italy,Mountain Tire Tube,4.99,0.3992
+10-03-2021,222,France,"Sport-100 Helmet, Blue",34.99,2.7992
+10-03-2021,481,Canada,"Racing Socks, M",8.99,0.7192
+10-03-2021,237,United States,"Long-Sleeve Logo Jersey, XL",49.99,3.9992
+11-03-2021,485,France,Fender Set - Mountain,21.98,1.7584
+14-03-2021,217,United States,"Sport-100 Helmet, Black",34.99,2.7992
+14-03-2021,605,Australia,"Road-750 Black, 48",539.99,43.1992
+16-03-2021,217,Italy,"Sport-100 Helmet, Black",34.99,2.7992
+17-03-2021,605,France,"Road-750 Black, 48",539.99,43.1992
+18-03-2021,584,Italy,"Road-750 Black, 58",539.99,43.1992
+18-03-2021,528,India,Mountain Tire Tube,4.99,0.3992
+19-03-2021,477,Italy,Water Bottle - 30 oz.,4.99,0.3992
+22-03-2021,536,India,ML Mountain Tire,29.99,2.3992
+22-03-2021,480,United States,Patch Kit/8 Patches,2.29,0.1832
+24-03-2021,484,Germany,Bike Wash - Dissolver,7.95,0.636
+24-03-2021,222,Italy,"Sport-100 Helmet, Blue",34.99,2.7992
+25-03-2021,355,United States,"Mountain-200 Silver, 42",2319.99,185.5992
+26-03-2021,482,France,"Racing Socks, L",8.99,0.7192
+26-03-2021,541,India,Touring Tire,28.99,2.3192
+28-03-2021,475,India,"Women's Mountain Shorts, M",69.99,5.5992
+30-03-2021,472,Australia,"Classic Vest, M",63.5,5.08
+02-04-2021,479,India,Road Bottle Cage,8.99,0.7192
+03-04-2021,536,United States,ML Mountain Tire,29.99,2.3992
+03-04-2021,214,India,"Sport-100 Helmet, Red",34.99,2.7992
+03-04-2021,471,United States,"Classic Vest, S",63.5,5.08
+06-04-2021,491,Italy,"Short-Sleeve Classic Jersey, XL",53.99,4.3192
+08-04-2021,477,United States,Water Bottle - 30 oz.,4.99,0.3992
+09-04-2021,467,United States,"Half-Finger Gloves, L",24.49,1.9592
+11-04-2021,536,France,ML Mountain Tire,29.99,2.3992
+13-04-2021,584,India,"Road-750 Black, 58",539.99,43.1992
+17-04-2021,529,India,Road Tire Tube,3.99,0.3192
+17-04-2021,386,France,"Road-550-W Yellow, 42",1120.49,89.6392
+18-04-2021,528,Germany,Mountain Tire Tube,4.99,0.3992
+19-04-2021,490,France,"Short-Sleeve Classic Jersey, L",53.99,4.3192
+19-04-2021,536,Italy,ML Mountain Tire,29.99,2.3992
+23-04-2021,480,France,Patch Kit/8 Patches,2.29,0.1832
+25-04-2021,225,India,AWC Logo Cap,8.99,0.7192
+26-04-2021,359,Australia,"Mountain-200 Black, 38",2294.99,183.5992
+26-04-2021,478,Australia,Mountain Bottle Cage,9.99,0.7992
+26-04-2021,485,Canada,Fender Set - Mountain,21.98,1.7584
+27-04-2021,561,France,"Touring-1000 Yellow, 46",2384.07,190.7256
+28-04-2021,486,India,All-Purpose Bike Stand,159,12.72
+29-04-2021,480,Australia,Patch Kit/8 Patches,2.29,0.1832
+30-04-2021,225,Canada,AWC Logo Cap,8.99,0.7192
+02-05-2021,222,Italy,"Sport-100 Helmet, Blue",34.99,2.7992
+02-05-2021,472,United States,"Classic Vest, M",63.5,5.08
+02-05-2021,528,India,Mountain Tire Tube,4.99,0.3992
+03-05-2021,567,Germany,"Touring-3000 Blue, 62",742.35,59.388
+05-05-2021,214,France,"Sport-100 Helmet, Red",34.99,2.7992
+06-05-2021,490,United States,"Short-Sleeve Classic Jersey, L",53.99,4.3192
+07-05-2021,485,Germany,Fender Set - Mountain,21.98,1.7584
+08-05-2021,471,United States,"Classic Vest, S",63.5,5.08
+10-05-2021,217,Canada,"Sport-100 Helmet, Black",34.99,2.7992
+10-05-2021,485,Australia,Fender Set - Mountain,21.98,1.7584
+11-05-2021,530,India,Touring Tire Tube,4.99,0.3992
+13-05-2021,222,Canada,"Sport-100 Helmet, Blue",34.99,2.7992
+14-05-2021,536,France,ML Mountain Tire,29.99,2.3992
+15-05-2021,528,Canada,Mountain Tire Tube,4.99,0.3992
+16-05-2021,214,France,"Sport-100 Helmet, Red",34.99,2.7992
+16-05-2021,528,Germany,Mountain Tire Tube,4.99,0.3992
+16-05-2021,310,India,"Road-150 Red, 62",3578.27,286.2616
+18-05-2021,237,United States,"Long-Sleeve Logo Jersey, XL",49.99,3.9992
+19-05-2021,225,Australia,AWC Logo Cap,8.99,0.7192
+21-05-2021,478,Italy,Mountain Bottle Cage,9.99,0.7992
+22-05-2021,465,United States,"Half-Finger Gloves, M",24.49,1.9592
+22-05-2021,354,India,"Mountain-200 Silver, 42",2071.4196,165.7136
+25-05-2021,483,Italy,Hitch Rack - 4-Bike,120,9.6
+25-05-2021,485,Australia,Fender Set - Mountain,21.98,1.7584
+25-05-2021,225,France,AWC Logo Cap,8.99,0.7192
+25-05-2021,222,Italy,"Sport-100 Helmet, Blue",34.99,2.7992
+27-05-2021,341,Germany,"Road-650 Black, 48",782.99,62.6392
+28-05-2021,463,United States,"Half-Finger Gloves, S",24.49,1.9592
+28-05-2021,535,Australia,LL Mountain Tire,24.99,1.9992
+30-05-2021,539,France,ML Road Tire,24.99,1.9992
+31-05-2021,485,United States,Fender Set - Mountain,21.98,1.7584
+01-06-2021,222,Germany,"Sport-100 Helmet, Blue",34.99,2.7992
+02-06-2021,487,Canada,Hydration Pack - 70 oz.,54.99,4.3992
+03-06-2021,353,India,"Mountain-200 Silver, 38",2319.99,185.5992
+03-06-2021,480,Germany,Patch Kit/8 Patches,2.29,0.1832
+04-06-2021,528,France,Mountain Tire Tube,4.99,0.3992
+04-06-2021,605,Italy,"Road-750 Black, 48",539.99,43.1992
+05-06-2021,491,Italy,"Short-Sleeve Classic Jersey, XL",53.99,4.3192
+05-06-2021,480,Canada,Patch Kit/8 Patches,2.29,0.1832
+06-06-2021,529,India,Road Tire Tube,3.99,0.3192
+06-06-2021,480,Germany,Patch Kit/8 Patches,2.29,0.1832
+10-06-2021,529,France,Road Tire Tube,3.99,0.3192
+11-06-2021,225,Canada,AWC Logo Cap,8.99,0.7192
+12-06-2021,478,Canada,Mountain Bottle Cage,9.99,0.7992
+13-06-2021,214,Canada,"Sport-100 Helmet, Red",34.99,2.7992
+13-06-2021,377,Canada,"Road-250 Black, 52",2181.5625,174.525
+13-06-2021,231,Italy,"Long-Sleeve Logo Jersey, M",49.99,3.9992
+17-06-2021,475,Australia,"Women's Mountain Shorts, M",69.99,5.5992
+18-06-2021,214,Italy,"Sport-100 Helmet, Red",34.99,2.7992
+18-06-2021,478,India,Mountain Bottle Cage,9.99,0.7992
+19-06-2021,540,United States,HL Road Tire,32.6,2.608
+19-06-2021,477,Canada,Water Bottle - 30 oz.,4.99,0.3992
+20-06-2021,312,Canada,"Road-150 Red, 48",3578.27,286.2616
+20-06-2021,540,United States,HL Road Tire,32.6,2.608
+23-06-2021,487,Australia,Hydration Pack - 70 oz.,54.99,4.3992
+24-06-2021,351,Canada,"Mountain-100 Black, 48",3374.99,269.9992
+28-06-2021,529,Germany,Road Tire Tube,3.99,0.3192
+29-06-2021,477,Italy,Water Bottle - 30 oz.,4.99,0.3992
+29-06-2021,477,Canada,Water Bottle - 30 oz.,4.99,0.3992
+29-06-2021,214,Germany,"Sport-100 Helmet, Red",34.99,2.7992
+01-07-2021,489,United States,"Short-Sleeve Classic Jersey, M",53.99,4.3192
+01-07-2021,325,Australia,"Road-650 Red, 62",782.99,62.6392
+02-07-2021,225,France,AWC Logo Cap,8.99,0.7192
+02-07-2021,353,Germany,"Mountain-200 Silver, 38",2319.99,185.5992
+02-07-2021,463,United States,"Half-Finger Gloves, S",24.49,1.9592
+04-07-2021,477,France,Water Bottle - 30 oz.,4.99,0.3992
+04-07-2021,485,United States,Fender Set - Mountain,21.98,1.7584
+04-07-2021,373,Italy,"Road-250 Black, 44",2181.5625,174.525
+05-07-2021,222,Australia,"Sport-100 Helmet, Blue",34.99,2.7992
+05-07-2021,530,Australia,Touring Tire Tube,4.99,0.3992
+05-07-2021,361,France,"Mountain-200 Black, 42",2294.99,183.5992
+06-07-2021,361,Italy,"Mountain-200 Black, 42",2294.99,183.5992
+06-07-2021,363,United States,"Mountain-200 Black, 46",2294.99,183.5992
+08-07-2021,529,France,Road Tire Tube,3.99,0.3192
+08-07-2021,369,Australia,"Road-250 Red, 48",2443.35,195.468
+08-07-2021,237,Italy,"Long-Sleeve Logo Jersey, XL",49.99,3.9992
+10-07-2021,480,Germany,Patch Kit/8 Patches,2.29,0.1832
+10-07-2021,477,France,Water Bottle - 30 oz.,4.99,0.3992
+11-07-2021,214,Germany,"Sport-100 Helmet, Red",34.99,2.7992
+14-07-2021,363,India,"Mountain-200 Black, 46",2294.99,183.5992
+15-07-2021,480,Germany,Patch Kit/8 Patches,2.29,0.1832
+16-07-2021,488,Italy,"Short-Sleeve Classic Jersey, S",53.99,4.3192
+18-07-2021,528,Canada,Mountain Tire Tube,4.99,0.3992
+18-07-2021,490,India,"Short-Sleeve Classic Jersey, L",53.99,4.3192
+19-07-2021,328,Australia,"Road-650 Red, 48",699.0982,55.9279
+22-07-2021,487,Italy,Hydration Pack - 70 oz.,54.99,4.3992
+24-07-2021,485,Australia,Fender Set - Mountain,21.98,1.7584
+24-07-2021,480,Australia,Patch Kit/8 Patches,2.29,0.1832
+24-07-2021,481,Germany,"Racing Socks, M",8.99,0.7192
+24-07-2021,483,United States,Hitch Rack - 4-Bike,120,9.6
+25-07-2021,485,United States,Fender Set - Mountain,21.98,1.7584
+26-07-2021,214,United States,"Sport-100 Helmet, Red",34.99,2.7992
+28-07-2021,477,Australia,Water Bottle - 30 oz.,4.99,0.3992
+28-07-2021,528,Italy,Mountain Tire Tube,4.99,0.3992
+29-07-2021,530,France,Touring Tire Tube,4.99,0.3992
+29-07-2021,359,India,"Mountain-200 Black, 38",2294.99,183.5992
+30-07-2021,372,Germany,"Road-250 Red, 58",2443.35,195.468
+30-07-2021,606,France,"Road-750 Black, 52",539.99,43.1992
+31-07-2021,476,France,"Women's Mountain Shorts, L",69.99,5.5992
+01-08-2021,352,Italy,"Mountain-200 Silver, 38",2071.4196,165.7136
+04-08-2021,225,France,AWC Logo Cap,8.99,0.7192
+04-08-2021,530,India,Touring Tire Tube,4.99,0.3992
+07-08-2021,475,India,"Women's Mountain Shorts, M",69.99,5.5992
+07-08-2021,583,Australia,"Road-350-W Yellow, 48",1700.99,136.0792
+11-08-2021,363,Australia,"Mountain-200 Black, 46",2294.99,183.5992
+11-08-2021,480,France,Patch Kit/8 Patches,2.29,0.1832
+13-08-2021,486,India,All-Purpose Bike Stand,159,12.72
+13-08-2021,529,Australia,Road Tire Tube,3.99,0.3192
+14-08-2021,536,Australia,ML Mountain Tire,29.99,2.3992
+14-08-2021,217,India,"Sport-100 Helmet, Black",34.99,2.7992
+16-08-2021,480,Germany,Patch Kit/8 Patches,2.29,0.1832
+16-08-2021,485,United States,Fender Set - Mountain,21.98,1.7584
+16-08-2021,231,France,"Long-Sleeve Logo Jersey, M",49.99,3.9992
+16-08-2021,355,Australia,"Mountain-200 Silver, 42",2319.99,185.5992
+17-08-2021,479,India,Road Bottle Cage,8.99,0.7192
+18-08-2021,530,France,Touring Tire Tube,4.99,0.3992
+20-08-2021,480,France,Patch Kit/8 Patches,2.29,0.1832
+21-08-2021,529,Italy,Road Tire Tube,3.99,0.3192
+22-08-2021,310,Canada,"Road-150 Red, 62",3578.27,286.2616
+22-08-2021,604,Germany,"Road-750 Black, 44",539.99,43.1992
+25-08-2021,479,United States,Road Bottle Cage,8.99,0.7192
+26-08-2021,214,Australia,"Sport-100 Helmet, Red",34.99,2.7992
+27-08-2021,535,Canada,LL Mountain Tire,24.99,1.9992
+27-08-2021,529,United States,Road Tire Tube,3.99,0.3192
+29-08-2021,529,India,Road Tire Tube,3.99,0.3192
+30-08-2021,347,Italy,"Mountain-100 Silver, 48",3399.99,271.9992
+30-08-2021,467,Italy,"Half-Finger Gloves, L",24.49,1.9592
+05-09-2021,217,Australia,"Sport-100 Helmet, Black",34.99,2.7992
+05-09-2021,541,Canada,Touring Tire,28.99,2.3192
+06-09-2021,528,India,Mountain Tire Tube,4.99,0.3992
+08-09-2021,561,Australia,"Touring-1000 Yellow, 46",2384.07,190.7256
+08-09-2021,477,United States,Water Bottle - 30 oz.,4.99,0.3992
+08-09-2021,477,France,Water Bottle - 30 oz.,4.99,0.3992
+10-09-2021,225,United States,AWC Logo Cap,8.99,0.7192
+10-09-2021,480,Canada,Patch Kit/8 Patches,2.29,0.1832
+10-09-2021,490,Australia,"Short-Sleeve Classic Jersey, L",53.99,4.3192
+12-09-2021,485,Italy,Fender Set - Mountain,21.98,1.7584
+13-09-2021,354,France,"Mountain-200 Silver, 42",2071.4196,165.7136
+14-09-2021,581,United States,"Road-350-W Yellow, 42",1700.99,136.0792
+15-09-2021,217,France,"Sport-100 Helmet, Black",34.99,2.7992
+15-09-2021,530,Australia,Touring Tire Tube,4.99,0.3992
+15-09-2021,581,France,"Road-350-W Yellow, 42",1700.99,136.0792
+19-09-2021,231,Germany,"Long-Sleeve Logo Jersey, M",49.99,3.9992
+21-09-2021,485,United States,Fender Set - Mountain,21.98,1.7584
+23-09-2021,479,United States,Road Bottle Cage,8.99,0.7192
+23-09-2021,361,France,"Mountain-200 Black, 42",2294.99,183.5992
+23-09-2021,539,Canada,ML Road Tire,24.99,1.9992
+25-09-2021,589,Australia,"Mountain-400-W Silver, 42",769.49,61.5592
+25-09-2021,222,France,"Sport-100 Helmet, Blue",34.99,2.7992
+25-09-2021,480,Italy,Patch Kit/8 Patches,2.29,0.1832
+26-09-2021,588,Australia,"Mountain-400-W Silver, 40",769.49,61.5592
+26-09-2021,480,India,Patch Kit/8 Patches,2.29,0.1832
+29-09-2021,491,Canada,"Short-Sleeve Classic Jersey, XL",53.99,4.3192
+30-09-2021,580,Germany,"Road-350-W Yellow, 40",1700.99,136.0792
+01-10-2021,357,India,"Mountain-200 Silver, 46",2319.99,185.5992
+01-10-2021,605,Canada,"Road-750 Black, 48",539.99,43.1992
+02-10-2021,217,Germany,"Sport-100 Helmet, Black",34.99,2.7992
+05-10-2021,589,Italy,"Mountain-400-W Silver, 42",769.49,61.5592
+06-10-2021,217,Australia,"Sport-100 Helmet, Black",34.99,2.7992
+07-10-2021,585,India,"Touring-3000 Blue, 44",742.35,59.388
+07-10-2021,463,Canada,"Half-Finger Gloves, S",24.49,1.9592
+07-10-2021,356,Canada,"Mountain-200 Silver, 46",2071.4196,165.7136
+09-10-2021,536,India,ML Mountain Tire,29.99,2.3992
+10-10-2021,477,United States,Water Bottle - 30 oz.,4.99,0.3992
+11-10-2021,214,Canada,"Sport-100 Helmet, Red",34.99,2.7992
+12-10-2021,537,India,HL Mountain Tire,35,2.8
+13-10-2021,324,India,"Road-650 Red, 62",699.0982,55.9279
+14-10-2021,465,France,"Half-Finger Gloves, M",24.49,1.9592
+14-10-2021,566,India,"Touring-3000 Blue, 58",742.35,59.388
+16-10-2021,485,Germany,Fender Set - Mountain,21.98,1.7584
+17-10-2021,596,Italy,"Mountain-500 Black, 40",539.99,43.1992
+18-10-2021,390,United States,"Road-550-W Yellow, 48",1120.49,89.6392
+20-10-2021,477,India,Water Bottle - 30 oz.,4.99,0.3992
+21-10-2021,222,France,"Sport-100 Helmet, Blue",34.99,2.7992
+21-10-2021,528,India,Mountain Tire Tube,4.99,0.3992
+21-10-2021,222,Italy,"Sport-100 Helmet, Blue",34.99,2.7992
+22-10-2021,490,Italy,"Short-Sleeve Classic Jersey, L",53.99,4.3192
+23-10-2021,484,Germany,Bike Wash - Dissolver,7.95,0.636
+25-10-2021,217,Australia,"Sport-100 Helmet, Black",34.99,2.7992
+27-10-2021,536,India,ML Mountain Tire,29.99,2.3992
+28-10-2021,584,India,"Road-750 Black, 58",539.99,43.1992
+29-10-2021,484,Canada,Bike Wash - Dissolver,7.95,0.636
+30-10-2021,592,France,"Mountain-500 Silver, 42",564.99,45.1992
+30-10-2021,528,France,Mountain Tire Tube,4.99,0.3992
+30-10-2021,465,France,"Half-Finger Gloves, M",24.49,1.9592
+31-10-2021,311,United States,"Road-150 Red, 44",3578.27,286.2616
+02-11-2021,225,Italy,AWC Logo Cap,8.99,0.7192
+02-11-2021,477,Canada,Water Bottle - 30 oz.,4.99,0.3992
+04-11-2021,596,Italy,"Mountain-500 Black, 40",539.99,43.1992
+06-11-2021,225,France,AWC Logo Cap,8.99,0.7192
+07-11-2021,472,India,"Classic Vest, M",63.5,5.08
+07-11-2021,583,Germany,"Road-350-W Yellow, 48",1700.99,136.0792
+09-11-2021,477,United States,Water Bottle - 30 oz.,4.99,0.3992
+10-11-2021,355,Italy,"Mountain-200 Silver, 42",2319.99,185.5992
+10-11-2021,339,Australia,"Road-650 Black, 44",782.99,62.6392
+11-11-2021,490,India,"Short-Sleeve Classic Jersey, L",53.99,4.3192
+11-11-2021,485,Italy,Fender Set - Mountain,21.98,1.7584
+12-11-2021,477,Germany,Water Bottle - 30 oz.,4.99,0.3992
+12-11-2021,225,Italy,AWC Logo Cap,8.99,0.7192
+12-11-2021,538,France,LL Road Tire,21.49,1.7192
+13-11-2021,217,Germany,"Sport-100 Helmet, Black",34.99,2.7992
+13-11-2021,536,France,ML Mountain Tire,29.99,2.3992
+13-11-2021,583,Canada,"Road-350-W Yellow, 48",1700.99,136.0792
+14-11-2021,463,Australia,"Half-Finger Gloves, S",24.49,1.9592
+14-11-2021,483,Canada,Hitch Rack - 4-Bike,120,9.6
+15-11-2021,222,Australia,"Sport-100 Helmet, Blue",34.99,2.7992
+17-11-2021,537,Italy,HL Mountain Tire,35,2.8
+17-11-2021,541,France,Touring Tire,28.99,2.3192
+18-11-2021,484,Italy,Bike Wash - Dissolver,7.95,0.636
+21-11-2021,540,Canada,HL Road Tire,32.6,2.608
+21-11-2021,479,Canada,Road Bottle Cage,8.99,0.7192
+22-11-2021,473,United States,"Classic Vest, L",63.5,5.08
+22-11-2021,539,Australia,ML Road Tire,24.99,1.9992
+23-11-2021,529,France,Road Tire Tube,3.99,0.3192
+23-11-2021,539,Australia,ML Road Tire,24.99,1.9992
+24-11-2021,480,India,Patch Kit/8 Patches,2.29,0.1832
+24-11-2021,479,Canada,Road Bottle Cage,8.99,0.7192
+25-11-2021,214,India,"Sport-100 Helmet, Red",34.99,2.7992
+26-11-2021,530,United States,Touring Tire Tube,4.99,0.3992
+26-11-2021,484,Canada,Bike Wash - Dissolver,7.95,0.636
+27-11-2021,480,Canada,Patch Kit/8 Patches,2.29,0.1832
+28-11-2021,530,France,Touring Tire Tube,4.99,0.3992
+28-11-2021,475,Canada,"Women's Mountain Shorts, M",69.99,5.5992
+29-11-2021,574,France,"Touring-1000 Blue, 50",2384.07,190.7256
+29-11-2021,596,Germany,"Mountain-500 Black, 40",539.99,43.1992
+29-11-2021,599,Canada,"Mountain-500 Black, 48",539.99,43.1992
+30-11-2021,529,India,Road Tire Tube,3.99,0.3192
+30-11-2021,537,Germany,HL Mountain Tire,35,2.8
+01-12-2021,530,Italy,Touring Tire Tube,4.99,0.3992
+02-12-2021,312,United States,"Road-150 Red, 48",3578.27,286.2616
+02-12-2021,477,France,Water Bottle - 30 oz.,4.99,0.3992
+02-12-2021,529,Australia,Road Tire Tube,3.99,0.3192
+03-12-2021,217,Canada,"Sport-100 Helmet, Black",34.99,2.7992
+06-12-2021,225,India,AWC Logo Cap,8.99,0.7192
+07-12-2021,541,India,Touring Tire,28.99,2.3192
+07-12-2021,487,Italy,Hydration Pack - 70 oz.,54.99,4.3992
+07-12-2021,529,Canada,Road Tire Tube,3.99,0.3192
+08-12-2021,485,France,Fender Set - Mountain,21.98,1.7584
+08-12-2021,606,Canada,"Road-750 Black, 52",539.99,43.1992
+09-12-2021,536,Canada,ML Mountain Tire,29.99,2.3992
+10-12-2021,353,France,"Mountain-200 Silver, 38",2319.99,185.5992
+11-12-2021,313,Canada,"Road-150 Red, 52",3578.27,286.2616
+11-12-2021,582,Germany,"Road-350-W Yellow, 44",1700.99,136.0792
+12-12-2021,529,Germany,Road Tire Tube,3.99,0.3192
+13-12-2021,604,Australia,"Road-750 Black, 44",539.99,43.1992
+13-12-2021,580,France,"Road-350-W Yellow, 40",1700.99,136.0792
+13-12-2021,540,Germany,HL Road Tire,32.6,2.608
+14-12-2021,491,United States,"Short-Sleeve Classic Jersey, XL",53.99,4.3192
+14-12-2021,477,United States,Water Bottle - 30 oz.,4.99,0.3992
+17-12-2021,374,Italy,"Road-250 Black, 44",2443.35,195.468
+17-12-2021,480,India,Patch Kit/8 Patches,2.29,0.1832
+18-12-2021,234,Germany,"Long-Sleeve Logo Jersey, L",49.99,3.9992
+18-12-2021,225,Australia,AWC Logo Cap,8.99,0.7192
+19-12-2021,580,France,"Road-350-W Yellow, 40",1700.99,136.0792
+22-12-2021,225,France,AWC Logo Cap,8.99,0.7192
+23-12-2021,478,Italy,Mountain Bottle Cage,9.99,0.7992
+23-12-2021,529,Australia,Road Tire Tube,3.99,0.3192
+23-12-2021,537,Italy,HL Mountain Tire,35,2.8
+24-12-2021,488,France,"Short-Sleeve Classic Jersey, S",53.99,4.3192
+25-12-2021,375,Italy,"Road-250 Black, 48",2181.5625,174.525
+27-12-2021,569,France,"Touring-3000 Yellow, 50",742.35,59.388
+30-12-2021,477,Canada,Water Bottle - 30 oz.,4.99,0.3992
+01-01-2022,528,United States,Mountain Tire Tube,4.99,0.3992
+01-01-2022,477,Canada,Water Bottle - 30 oz.,4.99,0.3992
+01-01-2022,487,United States,Hydration Pack - 70 oz.,54.99,4.3992
+07-01-2022,474,United States,"Women's Mountain Shorts, S",69.99,5.5992
+09-01-2022,563,India,"Touring-1000 Yellow, 54",2384.07,190.7256
+10-01-2022,579,Italy,"Touring-2000 Blue, 54",1214.85,97.188
+12-01-2022,480,Germany,Patch Kit/8 Patches,2.29,0.1832
+12-01-2022,359,Canada,"Mountain-200 Black, 38",2294.99,183.5992
+12-01-2022,477,Canada,Water Bottle - 30 oz.,4.99,0.3992
+12-01-2022,537,United States,HL Mountain Tire,35,2.8
+13-01-2022,225,France,AWC Logo Cap,8.99,0.7192
+13-01-2022,355,India,"Mountain-200 Silver, 42",2319.99,185.5992
+15-01-2022,490,Australia,"Short-Sleeve Classic Jersey, L",53.99,4.3192
+17-01-2022,228,India,"Long-Sleeve Logo Jersey, S",49.99,3.9992
+17-01-2022,484,Italy,Bike Wash - Dissolver,7.95,0.636
+18-01-2022,333,Australia,"Road-650 Black, 58",782.99,62.6392
+18-01-2022,581,Canada,"Road-350-W Yellow, 42",1700.99,136.0792
+20-01-2022,485,United States,Fender Set - Mountain,21.98,1.7584
+21-01-2022,539,United States,ML Road Tire,24.99,1.9992
+22-01-2022,371,Australia,"Road-250 Red, 58",2181.5625,174.525
+23-01-2022,529,Canada,Road Tire Tube,3.99,0.3192
+25-01-2022,477,Canada,Water Bottle - 30 oz.,4.99,0.3992
+26-01-2022,536,France,ML Mountain Tire,29.99,2.3992
+30-01-2022,386,Australia,"Road-550-W Yellow, 42",1120.49,89.6392
+31-01-2022,378,Germany,"Road-250 Black, 52",2443.35,195.468
+31-01-2022,312,India,"Road-150 Red, 48",3578.27,286.2616
+03-02-2022,536,India,ML Mountain Tire,29.99,2.3992
+05-02-2022,540,Italy,HL Road Tire,32.6,2.608
+05-02-2022,222,Canada,"Sport-100 Helmet, Blue",34.99,2.7992
+06-02-2022,528,Germany,Mountain Tire Tube,4.99,0.3992
+08-02-2022,528,Italy,Mountain Tire Tube,4.99,0.3992
+08-02-2022,485,Canada,Fender Set - Mountain,21.98,1.7584
+08-02-2022,485,United States,Fender Set - Mountain,21.98,1.7584
+09-02-2022,539,India,ML Road Tire,24.99,1.9992
+09-02-2022,467,Germany,"Half-Finger Gloves, L",24.49,1.9592
+09-02-2022,485,Canada,Fender Set - Mountain,21.98,1.7584
+11-02-2022,480,Australia,Patch Kit/8 Patches,2.29,0.1832
+14-02-2022,228,Germany,"Long-Sleeve Logo Jersey, S",49.99,3.9992
+15-02-2022,605,France,"Road-750 Black, 48",539.99,43.1992
+16-02-2022,463,Italy,"Half-Finger Gloves, S",24.49,1.9592
+16-02-2022,480,Canada,Patch Kit/8 Patches,2.29,0.1832
+17-02-2022,538,Australia,LL Road Tire,21.49,1.7192
+17-02-2022,388,France,"Road-550-W Yellow, 44",1120.49,89.6392
+19-02-2022,473,India,"Classic Vest, L",63.5,5.08
+19-02-2022,214,India,"Sport-100 Helmet, Red",34.99,2.7992
+23-02-2022,477,India,Water Bottle - 30 oz.,4.99,0.3992
+24-02-2022,222,India,"Sport-100 Helmet, Blue",34.99,2.7992
+24-02-2022,222,India,"Sport-100 Helmet, Blue",34.99,2.7992
+25-02-2022,485,Germany,Fender Set - Mountain,21.98,1.7584
+28-02-2022,214,United States,"Sport-100 Helmet, Red",34.99,2.7992
+28-02-2022,379,United States,"Road-250 Black, 58",2181.5625,174.525
+28-02-2022,480,United States,Patch Kit/8 Patches,2.29,0.1832
+01-03-2022,540,India,HL Road Tire,32.6,2.608
+03-03-2022,537,Italy,HL Mountain Tire,35,2.8
+03-03-2022,463,United States,"Half-Finger Gloves, S",24.49,1.9592
+03-03-2022,529,Australia,Road Tire Tube,3.99,0.3192
+06-03-2022,477,Germany,Water Bottle - 30 oz.,4.99,0.3992
+06-03-2022,371,Germany,"Road-250 Red, 58",2181.5625,174.525
+06-03-2022,575,Australia,"Touring-1000 Blue, 54",2384.07,190.7256
+06-03-2022,480,Italy,Patch Kit/8 Patches,2.29,0.1832
+07-03-2022,478,India,Mountain Bottle Cage,9.99,0.7992
+12-03-2022,480,India,Patch Kit/8 Patches,2.29,0.1832
+13-03-2022,480,India,Patch Kit/8 Patches,2.29,0.1832
+14-03-2022,538,Australia,LL Road Tire,21.49,1.7192
+14-03-2022,539,Australia,ML Road Tire,24.99,1.9992
+15-03-2022,478,United States,Mountain Bottle Cage,9.99,0.7992
+16-03-2022,537,Australia,HL Mountain Tire,35,2.8
+16-03-2022,541,Canada,Touring Tire,28.99,2.3192
+17-03-2022,352,France,"Mountain-200 Silver, 38",2071.4196,165.7136
+18-03-2022,595,Canada,"Mountain-500 Silver, 52",564.99,45.1992
+18-03-2022,487,United States,Hydration Pack - 70 oz.,54.99,4.3992
+18-03-2022,484,United States,Bike Wash - Dissolver,7.95,0.636
+19-03-2022,225,France,AWC Logo Cap,8.99,0.7192
+20-03-2022,530,France,Touring Tire Tube,4.99,0.3992
+20-03-2022,353,Canada,"Mountain-200 Silver, 38",2319.99,185.5992
+20-03-2022,217,France,"Sport-100 Helmet, Black",34.99,2.7992
+21-03-2022,363,United States,"Mountain-200 Black, 46",2294.99,183.5992
+23-03-2022,528,United States,Mountain Tire Tube,4.99,0.3992
+24-03-2022,368,France,"Road-250 Red, 44",2443.35,195.468
+24-03-2022,352,Germany,"Mountain-200 Silver, 38",2071.4196,165.7136
+25-03-2022,225,France,AWC Logo Cap,8.99,0.7192
+26-03-2022,217,Canada,"Sport-100 Helmet, Black",34.99,2.7992
+28-03-2022,606,Italy,"Road-750 Black, 52",539.99,43.1992
+29-03-2022,539,France,ML Road Tire,24.99,1.9992
+30-03-2022,480,United States,Patch Kit/8 Patches,2.29,0.1832
+30-03-2022,359,Italy,"Mountain-200 Black, 38",2294.99,183.5992
+31-03-2022,355,Germany,"Mountain-200 Silver, 42",2319.99,185.5992
+02-04-2022,225,France,AWC Logo Cap,8.99,0.7192
+02-04-2022,358,Canada,"Mountain-200 Black, 38",2049.0982,163.9279
+04-04-2022,484,France,Bike Wash - Dissolver,7.95,0.636
+04-04-2022,477,India,Water Bottle - 30 oz.,4.99,0.3992
+06-04-2022,384,Australia,"Road-550-W Yellow, 40",1120.49,89.6392
+07-04-2022,540,Italy,HL Road Tire,32.6,2.608
+08-04-2022,584,Australia,"Road-750 Black, 58",539.99,43.1992
+09-04-2022,477,France,Water Bottle - 30 oz.,4.99,0.3992
+10-04-2022,214,France,"Sport-100 Helmet, Red",34.99,2.7992
+10-04-2022,480,Germany,Patch Kit/8 Patches,2.29,0.1832
+13-04-2022,592,Australia,"Mountain-500 Silver, 42",564.99,45.1992
+15-04-2022,222,India,"Sport-100 Helmet, Blue",34.99,2.7992
+17-04-2022,583,Australia,"Road-350-W Yellow, 48",1700.99,136.0792
+18-04-2022,486,Germany,All-Purpose Bike Stand,159,12.72
+26-04-2022,528,France,Mountain Tire Tube,4.99,0.3992
+26-04-2022,576,United States,"Touring-1000 Blue, 60",2384.07,190.7256
+27-04-2022,486,Australia,All-Purpose Bike Stand,159,12.72
+28-04-2022,480,Canada,Patch Kit/8 Patches,2.29,0.1832
+29-04-2022,361,Australia,"Mountain-200 Black, 42",2294.99,183.5992
+03-05-2022,479,India,Road Bottle Cage,8.99,0.7192
+03-05-2022,488,India,"Short-Sleeve Classic Jersey, S",53.99,4.3192
+06-05-2022,363,Australia,"Mountain-200 Black, 46",2294.99,183.5992
+08-05-2022,313,France,"Road-150 Red, 52",3578.27,286.2616
+09-05-2022,586,Germany,"Touring-3000 Blue, 50",742.35,59.388
+11-05-2022,536,Germany,ML Mountain Tire,29.99,2.3992
+12-05-2022,535,India,LL Mountain Tire,24.99,1.9992
+15-05-2022,222,India,"Sport-100 Helmet, Blue",34.99,2.7992
+15-05-2022,225,India,AWC Logo Cap,8.99,0.7192
+15-05-2022,369,Italy,"Road-250 Red, 48",2443.35,195.468
+16-05-2022,595,Italy,"Mountain-500 Silver, 52",564.99,45.1992
+16-05-2022,485,Italy,Fender Set - Mountain,21.98,1.7584
+17-05-2022,485,India,Fender Set - Mountain,21.98,1.7584
+18-05-2022,485,Italy,Fender Set - Mountain,21.98,1.7584
+19-05-2022,541,India,Touring Tire,28.99,2.3192
+19-05-2022,484,India,Bike Wash - Dissolver,7.95,0.636
+21-05-2022,528,Germany,Mountain Tire Tube,4.99,0.3992
+22-05-2022,474,Italy,"Women's Mountain Shorts, S",69.99,5.5992
+22-05-2022,528,Italy,Mountain Tire Tube,4.99,0.3992
+23-05-2022,368,France,"Road-250 Red, 44",2443.35,195.468
+25-05-2022,536,Australia,ML Mountain Tire,29.99,2.3992
+26-05-2022,528,Italy,Mountain Tire Tube,4.99,0.3992
+27-05-2022,463,Australia,"Half-Finger Gloves, S",24.49,1.9592
+27-05-2022,222,Canada,"Sport-100 Helmet, Blue",34.99,2.7992
+27-05-2022,214,Italy,"Sport-100 Helmet, Red",34.99,2.7992
+28-05-2022,528,Germany,Mountain Tire Tube,4.99,0.3992
+29-05-2022,357,Germany,"Mountain-200 Silver, 46",2319.99,185.5992
+31-05-2022,478,Canada,Mountain Bottle Cage,9.99,0.7992
+31-05-2022,485,United States,Fender Set - Mountain,21.98,1.7584
+02-06-2022,313,Germany,"Road-150 Red, 52",3578.27,286.2616
+05-06-2022,484,India,Bike Wash - Dissolver,7.95,0.636
+05-06-2022,530,United States,Touring Tire Tube,4.99,0.3992
+06-06-2022,604,Australia,"Road-750 Black, 44",539.99,43.1992
+07-06-2022,528,India,Mountain Tire Tube,4.99,0.3992
+07-06-2022,528,France,Mountain Tire Tube,4.99,0.3992
+08-06-2022,310,France,"Road-150 Red, 62",3578.27,286.2616
+09-06-2022,477,Italy,Water Bottle - 30 oz.,4.99,0.3992
+12-06-2022,485,Australia,Fender Set - Mountain,21.98,1.7584
+13-06-2022,477,France,Water Bottle - 30 oz.,4.99,0.3992
+14-06-2022,463,Italy,"Half-Finger Gloves, S",24.49,1.9592
+14-06-2022,537,Australia,HL Mountain Tire,35,2.8
+14-06-2022,222,France,"Sport-100 Helmet, Blue",34.99,2.7992
+15-06-2022,485,Germany,Fender Set - Mountain,21.98,1.7584
+15-06-2022,477,India,Water Bottle - 30 oz.,4.99,0.3992
+16-06-2022,368,Canada,"Road-250 Red, 44",2443.35,195.468
+18-06-2022,467,Australia,"Half-Finger Gloves, L",24.49,1.9592
+19-06-2022,477,India,Water Bottle - 30 oz.,4.99,0.3992
+22-06-2022,538,Australia,LL Road Tire,21.49,1.7192
+22-06-2022,580,India,"Road-350-W Yellow, 40",1700.99,136.0792
+23-06-2022,214,Canada,"Sport-100 Helmet, Red",34.99,2.7992
+27-06-2022,225,India,AWC Logo Cap,8.99,0.7192
+29-06-2022,463,Australia,"Half-Finger Gloves, S",24.49,1.9592
+30-06-2022,222,United States,"Sport-100 Helmet, Blue",34.99,2.7992
+01-07-2022,480,Italy,Patch Kit/8 Patches,2.29,0.1832
+01-07-2022,214,Australia,"Sport-100 Helmet, Red",34.99,2.7992
+01-07-2022,478,Germany,Mountain Bottle Cage,9.99,0.7992
+01-07-2022,530,Italy,Touring Tire Tube,4.99,0.3992
+02-07-2022,465,Canada,"Half-Finger Gloves, M",24.49,1.9592
+03-07-2022,536,Australia,ML Mountain Tire,29.99,2.3992
+05-07-2022,313,United States,"Road-150 Red, 52",3578.27,286.2616
+05-07-2022,535,Germany,LL Mountain Tire,24.99,1.9992
+07-07-2022,479,Italy,Road Bottle Cage,8.99,0.7192
+09-07-2022,225,Australia,AWC Logo Cap,8.99,0.7192
+09-07-2022,479,United States,Road Bottle Cage,8.99,0.7192
+10-07-2022,465,Australia,"Half-Finger Gloves, M",24.49,1.9592
+11-07-2022,369,Italy,"Road-250 Red, 48",2443.35,195.468
+12-07-2022,217,United States,"Sport-100 Helmet, Black",34.99,2.7992
+12-07-2022,606,India,"Road-750 Black, 52",539.99,43.1992
+12-07-2022,222,France,"Sport-100 Helmet, Blue",34.99,2.7992
+13-07-2022,313,Italy,"Road-150 Red, 52",3578.27,286.2616
+15-07-2022,488,Canada,"Short-Sleeve Classic Jersey, S",53.99,4.3192
+15-07-2022,538,Canada,LL Road Tire,21.49,1.7192
+15-07-2022,588,Australia,"Mountain-400-W Silver, 40",769.49,61.5592
+15-07-2022,485,Canada,Fender Set - Mountain,21.98,1.7584
+17-07-2022,488,Australia,"Short-Sleeve Classic Jersey, S",53.99,4.3192
+17-07-2022,537,Germany,HL Mountain Tire,35,2.8
+18-07-2022,530,United States,Touring Tire Tube,4.99,0.3992
+18-07-2022,327,Germany,"Road-650 Red, 44",782.99,62.6392
+18-07-2022,478,Australia,Mountain Bottle Cage,9.99,0.7992
+20-07-2022,477,Canada,Water Bottle - 30 oz.,4.99,0.3992
+20-07-2022,361,India,"Mountain-200 Black, 42",2294.99,183.5992
+20-07-2022,484,Canada,Bike Wash - Dissolver,7.95,0.636
+21-07-2022,363,France,"Mountain-200 Black, 46",2294.99,183.5992
+21-07-2022,485,Canada,Fender Set - Mountain,21.98,1.7584
+22-07-2022,479,Canada,Road Bottle Cage,8.99,0.7192
+25-07-2022,536,Italy,ML Mountain Tire,29.99,2.3992
+25-07-2022,490,Australia,"Short-Sleeve Classic Jersey, L",53.99,4.3192
+27-07-2022,539,Australia,ML Road Tire,24.99,1.9992
+30-07-2022,584,India,"Road-750 Black, 58",539.99,43.1992
+02-08-2022,581,United States,"Road-350-W Yellow, 42",1700.99,136.0792
+02-08-2022,225,Canada,AWC Logo Cap,8.99,0.7192
+03-08-2022,482,Germany,"Racing Socks, L",8.99,0.7192
+04-08-2022,476,France,"Women's Mountain Shorts, L",69.99,5.5992
+05-08-2022,217,Germany,"Sport-100 Helmet, Black",34.99,2.7992
+05-08-2022,538,Australia,LL Road Tire,21.49,1.7192
+06-08-2022,529,United States,Road Tire Tube,3.99,0.3192
+07-08-2022,537,France,HL Mountain Tire,35,2.8
+09-08-2022,485,Canada,Fender Set - Mountain,21.98,1.7584
+09-08-2022,214,Canada,"Sport-100 Helmet, Red",34.99,2.7992
+10-08-2022,478,Canada,Mountain Bottle Cage,9.99,0.7992
+11-08-2022,222,United States,"Sport-100 Helmet, Blue",34.99,2.7992
+11-08-2022,478,Germany,Mountain Bottle Cage,9.99,0.7992
+12-08-2022,581,Australia,"Road-350-W Yellow, 42",1700.99,136.0792
+12-08-2022,536,Canada,ML Mountain Tire,29.99,2.3992
+14-08-2022,477,Germany,Water Bottle - 30 oz.,4.99,0.3992
+15-08-2022,478,Germany,Mountain Bottle Cage,9.99,0.7992
+15-08-2022,487,United States,Hydration Pack - 70 oz.,54.99,4.3992
+15-08-2022,540,Italy,HL Road Tire,32.6,2.608
+17-08-2022,479,France,Road Bottle Cage,8.99,0.7192
+20-08-2022,214,India,"Sport-100 Helmet, Red",34.99,2.7992
+20-08-2022,217,India,"Sport-100 Helmet, Black",34.99,2.7992
+20-08-2022,540,France,HL Road Tire,32.6,2.608
+23-08-2022,370,France,"Road-250 Red, 52",2443.35,195.468
+23-08-2022,217,Germany,"Sport-100 Helmet, Black",34.99,2.7992
+23-08-2022,478,Germany,Mountain Bottle Cage,9.99,0.7992
+23-08-2022,574,India,"Touring-1000 Blue, 50",2384.07,190.7256
+24-08-2022,571,Canada,"Touring-3000 Yellow, 58",742.35,59.388
+24-08-2022,529,France,Road Tire Tube,3.99,0.3192
+27-08-2022,477,Germany,Water Bottle - 30 oz.,4.99,0.3992
+29-08-2022,541,Italy,Touring Tire,28.99,2.3192
+29-08-2022,488,Australia,"Short-Sleeve Classic Jersey, S",53.99,4.3192
+29-08-2022,528,Australia,Mountain Tire Tube,4.99,0.3992
+02-09-2022,480,Italy,Patch Kit/8 Patches,2.29,0.1832
+03-09-2022,321,Italy,"Road-650 Red, 58",782.99,62.6392
+04-09-2022,529,India,Road Tire Tube,3.99,0.3192
+05-09-2022,479,Germany,Road Bottle Cage,8.99,0.7192
+05-09-2022,479,Australia,Road Bottle Cage,8.99,0.7192
+05-09-2022,388,United States,"Road-550-W Yellow, 44",1120.49,89.6392
+06-09-2022,537,France,HL Mountain Tire,35,2.8
+07-09-2022,372,Canada,"Road-250 Red, 58",2443.35,195.468
+07-09-2022,310,Italy,"Road-150 Red, 62",3578.27,286.2616
+08-09-2022,363,Canada,"Mountain-200 Black, 46",2294.99,183.5992
+08-09-2022,485,Italy,Fender Set - Mountain,21.98,1.7584
+10-09-2022,479,Canada,Road Bottle Cage,8.99,0.7192
+10-09-2022,529,Germany,Road Tire Tube,3.99,0.3192
+12-09-2022,562,Italy,"Touring-1000 Yellow, 50",2384.07,190.7256
+13-09-2022,604,France,"Road-750 Black, 44",539.99,43.1992
+14-09-2022,479,Germany,Road Bottle Cage,8.99,0.7192
+16-09-2022,528,Australia,Mountain Tire Tube,4.99,0.3992
+17-09-2022,379,United States,"Road-250 Black, 58",2181.5625,174.525
+19-09-2022,380,France,"Road-250 Black, 58",2443.35,195.468
+20-09-2022,231,Italy,"Long-Sleeve Logo Jersey, M",49.99,3.9992
+21-09-2022,480,France,Patch Kit/8 Patches,2.29,0.1832
+21-09-2022,222,Germany,"Sport-100 Helmet, Blue",34.99,2.7992
+23-09-2022,231,Australia,"Long-Sleeve Logo Jersey, M",49.99,3.9992
+24-09-2022,529,United States,Road Tire Tube,3.99,0.3192
+28-09-2022,480,France,Patch Kit/8 Patches,2.29,0.1832
+01-10-2022,529,Italy,Road Tire Tube,3.99,0.3192
+01-10-2022,214,Germany,"Sport-100 Helmet, Red",34.99,2.7992
+01-10-2022,538,Australia,LL Road Tire,21.49,1.7192
+02-10-2022,477,Canada,Water Bottle - 30 oz.,4.99,0.3992
+03-10-2022,530,Canada,Touring Tire Tube,4.99,0.3992
+06-10-2022,225,India,AWC Logo Cap,8.99,0.7192
+08-10-2022,480,Australia,Patch Kit/8 Patches,2.29,0.1832
+08-10-2022,479,Canada,Road Bottle Cage,8.99,0.7192
+10-10-2022,541,Italy,Touring Tire,28.99,2.3192
+13-10-2022,528,Germany,Mountain Tire Tube,4.99,0.3992
+14-10-2022,481,Germany,"Racing Socks, M",8.99,0.7192
+16-10-2022,529,Germany,Road Tire Tube,3.99,0.3192
+17-10-2022,217,Canada,"Sport-100 Helmet, Black",34.99,2.7992
+18-10-2022,467,France,"Half-Finger Gloves, L",24.49,1.9592
+19-10-2022,529,France,Road Tire Tube,3.99,0.3192
+21-10-2022,472,Germany,"Classic Vest, M",63.5,5.08
+21-10-2022,217,France,"Sport-100 Helmet, Black",34.99,2.7992
+22-10-2022,477,Germany,Water Bottle - 30 oz.,4.99,0.3992
+22-10-2022,485,Canada,Fender Set - Mountain,21.98,1.7584
+25-10-2022,484,Germany,Bike Wash - Dissolver,7.95,0.636
+27-10-2022,538,Germany,LL Road Tire,21.49,1.7192
+29-10-2022,485,Australia,Fender Set - Mountain,21.98,1.7584
+31-10-2022,214,Canada,"Sport-100 Helmet, Red",34.99,2.7992
+03-11-2022,476,Australia,"Women's Mountain Shorts, L",69.99,5.5992
+03-11-2022,463,Australia,"Half-Finger Gloves, S",24.49,1.9592
+03-11-2022,478,United States,Mountain Bottle Cage,9.99,0.7992
+03-11-2022,486,India,All-Purpose Bike Stand,159,12.72
+04-11-2022,529,Italy,Road Tire Tube,3.99,0.3192
+05-11-2022,478,Australia,Mountain Bottle Cage,9.99,0.7992
+06-11-2022,356,Italy,"Mountain-200 Silver, 46",2071.4196,165.7136
+09-11-2022,389,Canada,"Road-550-W Yellow, 48",1000.4375,80.035
+10-11-2022,477,Canada,Water Bottle - 30 oz.,4.99,0.3992
+11-11-2022,530,Canada,Touring Tire Tube,4.99,0.3992
+13-11-2022,369,Germany,"Road-250 Red, 48",2443.35,195.468
+15-11-2022,477,Italy,Water Bottle - 30 oz.,4.99,0.3992
+15-11-2022,356,Australia,"Mountain-200 Silver, 46",2071.4196,165.7136
+19-11-2022,540,Australia,HL Road Tire,32.6,2.608
+19-11-2022,605,India,"Road-750 Black, 48",539.99,43.1992
+22-11-2022,490,India,"Short-Sleeve Classic Jersey, L",53.99,4.3192
+22-11-2022,217,Canada,"Sport-100 Helmet, Black",34.99,2.7992
+23-11-2022,479,United States,Road Bottle Cage,8.99,0.7192
+23-11-2022,234,United States,"Long-Sleeve Logo Jersey, L",49.99,3.9992
+23-11-2022,356,India,"Mountain-200 Silver, 46",2071.4196,165.7136
+24-11-2022,530,United States,Touring Tire Tube,4.99,0.3992
+26-11-2022,476,Germany,"Women's Mountain Shorts, L",69.99,5.5992
+27-11-2022,586,India,"Touring-3000 Blue, 50",742.35,59.388
+27-11-2022,488,Germany,"Short-Sleeve Classic Jersey, S",53.99,4.3192
+30-11-2022,354,Australia,"Mountain-200 Silver, 42",2071.4196,165.7136
+30-11-2022,536,Canada,ML Mountain Tire,29.99,2.3992
+04-12-2022,480,Germany,Patch Kit/8 Patches,2.29,0.1832
+04-12-2022,487,India,Hydration Pack - 70 oz.,54.99,4.3992
+04-12-2022,541,United States,Touring Tire,28.99,2.3192
+07-12-2022,478,United States,Mountain Bottle Cage,9.99,0.7992
+08-12-2022,477,India,Water Bottle - 30 oz.,4.99,0.3992
+09-12-2022,214,Australia,"Sport-100 Helmet, Red",34.99,2.7992
+09-12-2022,217,India,"Sport-100 Helmet, Black",34.99,2.7992
+10-12-2022,314,France,"Road-150 Red, 56",3578.27,286.2616
+12-12-2022,529,Germany,Road Tire Tube,3.99,0.3192
+12-12-2022,478,Germany,Mountain Bottle Cage,9.99,0.7992
+12-12-2022,225,Canada,AWC Logo Cap,8.99,0.7192
+14-12-2022,477,France,Water Bottle - 30 oz.,4.99,0.3992
+15-12-2022,353,France,"Mountain-200 Silver, 38",2319.99,185.5992
+17-12-2022,536,India,ML Mountain Tire,29.99,2.3992
+17-12-2022,567,United States,"Touring-3000 Blue, 62",742.35,59.388
+17-12-2022,606,France,"Road-750 Black, 52",539.99,43.1992
+17-12-2022,214,United States,"Sport-100 Helmet, Red",34.99,2.7992
+19-12-2022,529,Canada,Road Tire Tube,3.99,0.3192
+20-12-2022,475,United States,"Women's Mountain Shorts, M",69.99,5.5992
+21-12-2022,363,Germany,"Mountain-200 Black, 46",2294.99,183.5992
+23-12-2022,225,India,AWC Logo Cap,8.99,0.7192
+23-12-2022,575,United States,"Touring-1000 Blue, 54",2384.07,190.7256
+24-12-2022,386,India,"Road-550-W Yellow, 42",1120.49,89.6392
+24-12-2022,541,Canada,Touring Tire,28.99,2.3192
+25-12-2022,530,India,Touring Tire Tube,4.99,0.3992
+27-12-2022,217,Canada,"Sport-100 Helmet, Black",34.99,2.7992
+28-12-2022,237,United States,"Long-Sleeve Logo Jersey, XL",49.99,3.9992
+29-12-2022,477,United States,Water Bottle - 30 oz.,4.99,0.3992
+31-12-2022,529,India,Road Tire Tube,3.99,0.3192
+01-01-2023,478,Italy,Mountain Bottle Cage,9.99,0.7992
+02-01-2023,480,France,Patch Kit/8 Patches,2.29,0.1832
+03-01-2023,328,Australia,"Road-650 Red, 48",699.0982,55.9279
+04-01-2023,477,Italy,Water Bottle - 30 oz.,4.99,0.3992
+05-01-2023,535,Italy,LL Mountain Tire,24.99,1.9992
+06-01-2023,593,Germany,"Mountain-500 Silver, 44",564.99,45.1992
+06-01-2023,313,Canada,"Road-150 Red, 52",3578.27,286.2616
+06-01-2023,237,Australia,"Long-Sleeve Logo Jersey, XL",49.99,3.9992
+06-01-2023,222,United States,"Sport-100 Helmet, Blue",34.99,2.7992
+07-01-2023,225,Germany,AWC Logo Cap,8.99,0.7192
+08-01-2023,214,United States,"Sport-100 Helmet, Red",34.99,2.7992
+08-01-2023,237,United States,"Long-Sleeve Logo Jersey, XL",49.99,3.9992
+08-01-2023,478,Italy,Mountain Bottle Cage,9.99,0.7992
+09-01-2023,477,Italy,Water Bottle - 30 oz.,4.99,0.3992
+10-01-2023,560,United States,"Touring-2000 Blue, 60",1214.85,97.188
+11-01-2023,310,Germany,"Road-150 Red, 62",3578.27,286.2616
+11-01-2023,477,Italy,Water Bottle - 30 oz.,4.99,0.3992
+11-01-2023,384,France,"Road-550-W Yellow, 40",1120.49,89.6392
+16-01-2023,477,Australia,Water Bottle - 30 oz.,4.99,0.3992
+17-01-2023,528,India,Mountain Tire Tube,4.99,0.3992
+18-01-2023,477,Italy,Water Bottle - 30 oz.,4.99,0.3992
+21-01-2023,536,Australia,ML Mountain Tire,29.99,2.3992
+23-01-2023,530,Italy,Touring Tire Tube,4.99,0.3992
+24-01-2023,477,United States,Water Bottle - 30 oz.,4.99,0.3992
+24-01-2023,528,France,Mountain Tire Tube,4.99,0.3992
+24-01-2023,214,France,"Sport-100 Helmet, Red",34.99,2.7992
+25-01-2023,528,Germany,Mountain Tire Tube,4.99,0.3992
+26-01-2023,480,France,Patch Kit/8 Patches,2.29,0.1832
+26-01-2023,485,India,Fender Set - Mountain,21.98,1.7584
+27-01-2023,560,France,"Touring-2000 Blue, 60",1214.85,97.188
+27-01-2023,528,France,Mountain Tire Tube,4.99,0.3992
+29-01-2023,529,Germany,Road Tire Tube,3.99,0.3192
+29-01-2023,477,Canada,Water Bottle - 30 oz.,4.99,0.3992
+31-01-2023,477,United States,Water Bottle - 30 oz.,4.99,0.3992
+01-02-2023,217,United States,"Sport-100 Helmet, Black",34.99,2.7992
+01-02-2023,479,India,Road Bottle Cage,8.99,0.7192
+01-02-2023,217,France,"Sport-100 Helmet, Black",34.99,2.7992
+02-02-2023,485,Germany,Fender Set - Mountain,21.98,1.7584
+03-02-2023,491,United States,"Short-Sleeve Classic Jersey, XL",53.99,4.3192
+03-02-2023,214,France,"Sport-100 Helmet, Red",34.99,2.7992
+04-02-2023,540,Canada,HL Road Tire,32.6,2.608
+05-02-2023,536,India,ML Mountain Tire,29.99,2.3992
+06-02-2023,477,Italy,Water Bottle - 30 oz.,4.99,0.3992
+06-02-2023,489,Australia,"Short-Sleeve Classic Jersey, M",53.99,4.3192
+07-02-2023,237,Canada,"Long-Sleeve Logo Jersey, XL",49.99,3.9992
+08-02-2023,529,United States,Road Tire Tube,3.99,0.3192
+09-02-2023,606,France,"Road-750 Black, 52",539.99,43.1992
+10-02-2023,606,Germany,"Road-750 Black, 52",539.99,43.1992
+12-02-2023,373,Canada,"Road-250 Black, 44",2181.5625,174.525
+13-02-2023,580,Germany,"Road-350-W Yellow, 40",1700.99,136.0792
+14-02-2023,479,Germany,Road Bottle Cage,8.99,0.7192
+14-02-2023,480,Germany,Patch Kit/8 Patches,2.29,0.1832
+15-02-2023,486,Canada,All-Purpose Bike Stand,159,12.72
+15-02-2023,363,Canada,"Mountain-200 Black, 46",2294.99,183.5992
+19-02-2023,479,Australia,Road Bottle Cage,8.99,0.7192
+20-02-2023,529,India,Road Tire Tube,3.99,0.3192
+20-02-2023,480,Canada,Patch Kit/8 Patches,2.29,0.1832
+20-02-2023,530,Italy,Touring Tire Tube,4.99,0.3992
+21-02-2023,225,India,AWC Logo Cap,8.99,0.7192
+22-02-2023,214,Italy,"Sport-100 Helmet, Red",34.99,2.7992
+24-02-2023,529,Germany,Road Tire Tube,3.99,0.3192
+26-02-2023,225,Australia,AWC Logo Cap,8.99,0.7192
+28-02-2023,225,Italy,AWC Logo Cap,8.99,0.7192
+02-03-2023,480,India,Patch Kit/8 Patches,2.29,0.1832
+04-03-2023,225,Italy,AWC Logo Cap,8.99,0.7192
+07-03-2023,477,France,Water Bottle - 30 oz.,4.99,0.3992
+10-03-2023,465,Australia,"Half-Finger Gloves, M",24.49,1.9592
+10-03-2023,537,India,HL Mountain Tire,35,2.8
+11-03-2023,528,Germany,Mountain Tire Tube,4.99,0.3992
+11-03-2023,480,Germany,Patch Kit/8 Patches,2.29,0.1832
+12-03-2023,222,Canada,"Sport-100 Helmet, Blue",34.99,2.7992
+13-03-2023,480,France,Patch Kit/8 Patches,2.29,0.1832
+13-03-2023,314,Germany,"Road-150 Red, 56",3578.27,286.2616
+14-03-2023,530,India,Touring Tire Tube,4.99,0.3992
+15-03-2023,491,Italy,"Short-Sleeve Classic Jersey, XL",53.99,4.3192
+15-03-2023,225,Italy,AWC Logo Cap,8.99,0.7192
+15-03-2023,528,United States,Mountain Tire Tube,4.99,0.3992
+15-03-2023,363,France,"Mountain-200 Black, 46",2294.99,183.5992
+16-03-2023,474,France,"Women's Mountain Shorts, S",69.99,5.5992
+16-03-2023,478,Australia,Mountain Bottle Cage,9.99,0.7992
+18-03-2023,580,Italy,"Road-350-W Yellow, 40",1700.99,136.0792
+18-03-2023,477,France,Water Bottle - 30 oz.,4.99,0.3992
+23-03-2023,538,India,LL Road Tire,21.49,1.7192
+24-03-2023,530,India,Touring Tire Tube,4.99,0.3992
+24-03-2023,217,United States,"Sport-100 Helmet, Black",34.99,2.7992
+24-03-2023,568,Germany,"Touring-3000 Yellow, 44",742.35,59.388
+26-03-2023,477,Canada,Water Bottle - 30 oz.,4.99,0.3992
+27-03-2023,485,Italy,Fender Set - Mountain,21.98,1.7584
+29-03-2023,529,India,Road Tire Tube,3.99,0.3192
+29-03-2023,231,India,"Long-Sleeve Logo Jersey, M",49.99,3.9992
+31-03-2023,538,Italy,LL Road Tire,21.49,1.7192
+03-04-2023,487,India,Hydration Pack - 70 oz.,54.99,4.3992
+03-04-2023,485,Italy,Fender Set - Mountain,21.98,1.7584
+04-04-2023,237,Germany,"Long-Sleeve Logo Jersey, XL",49.99,3.9992
+04-04-2023,375,United States,"Road-250 Black, 48",2181.5625,174.525
+09-04-2023,487,France,Hydration Pack - 70 oz.,54.99,4.3992
+09-04-2023,539,Canada,ML Road Tire,24.99,1.9992
+13-04-2023,528,Italy,Mountain Tire Tube,4.99,0.3992
+13-04-2023,477,France,Water Bottle - 30 oz.,4.99,0.3992
+14-04-2023,217,United States,"Sport-100 Helmet, Black",34.99,2.7992
+18-04-2023,490,Australia,"Short-Sleeve Classic Jersey, L",53.99,4.3192
+19-04-2023,528,Germany,Mountain Tire Tube,4.99,0.3992
+22-04-2023,231,India,"Long-Sleeve Logo Jersey, M",49.99,3.9992
+23-04-2023,537,Canada,HL Mountain Tire,35,2.8
+24-04-2023,467,Germany,"Half-Finger Gloves, L",24.49,1.9592
+25-04-2023,214,France,"Sport-100 Helmet, Red",34.99,2.7992
+27-04-2023,585,France,"Touring-3000 Blue, 44",742.35,59.388
+27-04-2023,369,India,"Road-250 Red, 48",2443.35,195.468
+28-04-2023,537,France,HL Mountain Tire,35,2.8
+30-04-2023,312,France,"Road-150 Red, 48",3578.27,286.2616
+05-05-2023,334,Germany,"Road-650 Black, 60",699.0982,55.9279
+05-05-2023,487,India,Hydration Pack - 70 oz.,54.99,4.3992
+06-05-2023,477,United States,Water Bottle - 30 oz.,4.99,0.3992
+06-05-2023,345,India,"Mountain-100 Silver, 42",3399.99,271.9992
+08-05-2023,541,Canada,Touring Tire,28.99,2.3192
+09-05-2023,605,Germany,"Road-750 Black, 48",539.99,43.1992
+09-05-2023,529,Germany,Road Tire Tube,3.99,0.3192
+09-05-2023,237,France,"Long-Sleeve Logo Jersey, XL",49.99,3.9992
+11-05-2023,528,Canada,Mountain Tire Tube,4.99,0.3992
+11-05-2023,477,Italy,Water Bottle - 30 oz.,4.99,0.3992
+12-05-2023,354,Italy,"Mountain-200 Silver, 42",2071.4196,165.7136
+13-05-2023,528,Canada,Mountain Tire Tube,4.99,0.3992
+13-05-2023,480,France,Patch Kit/8 Patches,2.29,0.1832
+13-05-2023,312,Australia,"Road-150 Red, 48",3578.27,286.2616
+13-05-2023,480,India,Patch Kit/8 Patches,2.29,0.1832
+15-05-2023,214,Germany,"Sport-100 Helmet, Red",34.99,2.7992
+15-05-2023,353,Australia,"Mountain-200 Silver, 38",2319.99,185.5992
+18-05-2023,541,Australia,Touring Tire,28.99,2.3192
+18-05-2023,568,France,"Touring-3000 Yellow, 44",742.35,59.388
+19-05-2023,535,India,LL Mountain Tire,24.99,1.9992
+19-05-2023,528,Australia,Mountain Tire Tube,4.99,0.3992
+21-05-2023,528,Australia,Mountain Tire Tube,4.99,0.3992
+23-05-2023,478,Italy,Mountain Bottle Cage,9.99,0.7992
+24-05-2023,485,Germany,Fender Set - Mountain,21.98,1.7584
+24-05-2023,477,Canada,Water Bottle - 30 oz.,4.99,0.3992
+28-05-2023,336,Italy,"Road-650 Black, 62",699.0982,55.9279
+28-05-2023,537,Italy,HL Mountain Tire,35,2.8
+29-05-2023,539,Italy,ML Road Tire,24.99,1.9992
+02-06-2023,357,Canada,"Mountain-200 Silver, 46",2319.99,185.5992
+03-06-2023,529,Canada,Road Tire Tube,3.99,0.3192
+06-06-2023,478,Germany,Mountain Bottle Cage,9.99,0.7992
+10-06-2023,222,Germany,"Sport-100 Helmet, Blue",34.99,2.7992
+11-06-2023,541,Canada,Touring Tire,28.99,2.3192
+13-06-2023,477,Germany,Water Bottle - 30 oz.,4.99,0.3992
+13-06-2023,540,India,HL Road Tire,32.6,2.608
+14-06-2023,231,Germany,"Long-Sleeve Logo Jersey, M",49.99,3.9992
+14-06-2023,476,United States,"Women's Mountain Shorts, L",69.99,5.5992
+14-06-2023,214,Italy,"Sport-100 Helmet, Red",34.99,2.7992
+15-06-2023,485,France,Fender Set - Mountain,21.98,1.7584
+15-06-2023,477,India,Water Bottle - 30 oz.,4.99,0.3992
+15-06-2023,539,India,ML Road Tire,24.99,1.9992
+15-06-2023,214,Canada,"Sport-100 Helmet, Red",34.99,2.7992
+15-06-2023,480,Canada,Patch Kit/8 Patches,2.29,0.1832
+19-06-2023,388,United States,"Road-550-W Yellow, 44",1120.49,89.6392
+20-06-2023,382,India,"Road-550-W Yellow, 38",1120.49,89.6392
+20-06-2023,528,Canada,Mountain Tire Tube,4.99,0.3992
+20-06-2023,491,Germany,"Short-Sleeve Classic Jersey, XL",53.99,4.3192
+20-06-2023,214,Italy,"Sport-100 Helmet, Red",34.99,2.7992
+21-06-2023,537,Italy,HL Mountain Tire,35,2.8
+23-06-2023,384,United States,"Road-550-W Yellow, 40",1120.49,89.6392
+23-06-2023,536,India,ML Mountain Tire,29.99,2.3992
+25-06-2023,237,Italy,"Long-Sleeve Logo Jersey, XL",49.99,3.9992
+27-06-2023,477,France,Water Bottle - 30 oz.,4.99,0.3992
+28-06-2023,541,France,Touring Tire,28.99,2.3192
+30-06-2023,485,Canada,Fender Set - Mountain,21.98,1.7584
+30-06-2023,592,Australia,"Mountain-500 Silver, 42",564.99,45.1992
+30-06-2023,535,United States,LL Mountain Tire,24.99,1.9992
+02-07-2023,478,India,Mountain Bottle Cage,9.99,0.7992
+03-07-2023,463,Canada,"Half-Finger Gloves, S",24.49,1.9592
+05-07-2023,222,United States,"Sport-100 Helmet, Blue",34.99,2.7992
+05-07-2023,540,Canada,HL Road Tire,32.6,2.608
+06-07-2023,361,Germany,"Mountain-200 Black, 42",2294.99,183.5992
+07-07-2023,355,France,"Mountain-200 Silver, 42",2319.99,185.5992
+07-07-2023,363,Canada,"Mountain-200 Black, 46",2294.99,183.5992
+09-07-2023,479,India,Road Bottle Cage,8.99,0.7192
+10-07-2023,580,Germany,"Road-350-W Yellow, 40",1700.99,136.0792
+10-07-2023,536,India,ML Mountain Tire,29.99,2.3992
+14-07-2023,368,Italy,"Road-250 Red, 44",2443.35,195.468
+14-07-2023,541,Australia,Touring Tire,28.99,2.3192
+15-07-2023,368,United States,"Road-250 Red, 44",2443.35,195.468
+16-07-2023,530,Italy,Touring Tire Tube,4.99,0.3992
+19-07-2023,222,United States,"Sport-100 Helmet, Blue",34.99,2.7992
+19-07-2023,599,Canada,"Mountain-500 Black, 48",539.99,43.1992
+19-07-2023,214,France,"Sport-100 Helmet, Red",34.99,2.7992
+21-07-2023,529,India,Road Tire Tube,3.99,0.3192
+23-07-2023,529,India,Road Tire Tube,3.99,0.3192
+24-07-2023,477,India,Water Bottle - 30 oz.,4.99,0.3992
+24-07-2023,214,Germany,"Sport-100 Helmet, Red",34.99,2.7992
+24-07-2023,536,India,ML Mountain Tire,29.99,2.3992
+24-07-2023,538,Australia,LL Road Tire,21.49,1.7192
+25-07-2023,540,Germany,HL Road Tire,32.6,2.608
+27-07-2023,374,United States,"Road-250 Black, 44",2443.35,195.468
+29-07-2023,536,Canada,ML Mountain Tire,29.99,2.3992
+30-07-2023,477,United States,Water Bottle - 30 oz.,4.99,0.3992
+31-07-2023,490,Germany,"Short-Sleeve Classic Jersey, L",53.99,4.3192
+31-07-2023,225,Canada,AWC Logo Cap,8.99,0.7192
+31-07-2023,485,France,Fender Set - Mountain,21.98,1.7584
+02-08-2023,225,Canada,AWC Logo Cap,8.99,0.7192
+03-08-2023,529,Italy,Road Tire Tube,3.99,0.3192
+03-08-2023,477,Germany,Water Bottle - 30 oz.,4.99,0.3992
+03-08-2023,530,United States,Touring Tire Tube,4.99,0.3992
+04-08-2023,485,United States,Fender Set - Mountain,21.98,1.7584
+04-08-2023,380,Germany,"Road-250 Black, 58",2443.35,195.468
+06-08-2023,487,Canada,Hydration Pack - 70 oz.,54.99,4.3992
+07-08-2023,528,Italy,Mountain Tire Tube,4.99,0.3992
+08-08-2023,482,Australia,"Racing Socks, L",8.99,0.7192
+10-08-2023,348,Australia,"Mountain-100 Black, 38",3374.99,269.9992
+10-08-2023,350,Italy,"Mountain-100 Black, 44",3374.99,269.9992
+12-08-2023,225,Italy,AWC Logo Cap,8.99,0.7192
+12-08-2023,214,India,"Sport-100 Helmet, Red",34.99,2.7992
+13-08-2023,222,Germany,"Sport-100 Helmet, Blue",34.99,2.7992
+14-08-2023,231,United States,"Long-Sleeve Logo Jersey, M",49.99,3.9992
+15-08-2023,539,France,ML Road Tire,24.99,1.9992
+15-08-2023,357,Australia,"Mountain-200 Silver, 46",2319.99,185.5992
+15-08-2023,539,India,ML Road Tire,24.99,1.9992
+16-08-2023,539,Australia,ML Road Tire,24.99,1.9992
+17-08-2023,528,Australia,Mountain Tire Tube,4.99,0.3992
+19-08-2023,478,Italy,Mountain Bottle Cage,9.99,0.7992
+21-08-2023,237,India,"Long-Sleeve Logo Jersey, XL",49.99,3.9992
+23-08-2023,217,France,"Sport-100 Helmet, Black",34.99,2.7992
+23-08-2023,584,Canada,"Road-750 Black, 58",539.99,43.1992
+26-08-2023,382,Canada,"Road-550-W Yellow, 38",1120.49,89.6392
+01-09-2023,479,France,Road Bottle Cage,8.99,0.7192
+02-09-2023,480,India,Patch Kit/8 Patches,2.29,0.1832
+02-09-2023,536,Germany,ML Mountain Tire,29.99,2.3992
+02-09-2023,477,Canada,Water Bottle - 30 oz.,4.99,0.3992
+03-09-2023,225,Canada,AWC Logo Cap,8.99,0.7192
+04-09-2023,475,Germany,"Women's Mountain Shorts, M",69.99,5.5992
+05-09-2023,528,Germany,Mountain Tire Tube,4.99,0.3992
+06-09-2023,535,Italy,LL Mountain Tire,24.99,1.9992
+08-09-2023,484,India,Bike Wash - Dissolver,7.95,0.636
+11-09-2023,491,France,"Short-Sleeve Classic Jersey, XL",53.99,4.3192
+11-09-2023,222,Italy,"Sport-100 Helmet, Blue",34.99,2.7992
+12-09-2023,580,India,"Road-350-W Yellow, 40",1700.99,136.0792
+14-09-2023,477,Canada,Water Bottle - 30 oz.,4.99,0.3992
+14-09-2023,529,Australia,Road Tire Tube,3.99,0.3192
+17-09-2023,485,Canada,Fender Set - Mountain,21.98,1.7584
+18-09-2023,377,France,"Road-250 Black, 52",2181.5625,174.525
+21-09-2023,530,Canada,Touring Tire Tube,4.99,0.3992
+21-09-2023,217,France,"Sport-100 Helmet, Black",34.99,2.7992
+24-09-2023,217,India,"Sport-100 Helmet, Black",34.99,2.7992
+24-09-2023,477,France,Water Bottle - 30 oz.,4.99,0.3992
+25-09-2023,477,Canada,Water Bottle - 30 oz.,4.99,0.3992
+26-09-2023,561,Canada,"Touring-1000 Yellow, 46",2384.07,190.7256
+26-09-2023,388,Italy,"Road-550-W Yellow, 44",1120.49,89.6392
+27-09-2023,314,Australia,"Road-150 Red, 56",3578.27,286.2616
+27-09-2023,528,Italy,Mountain Tire Tube,4.99,0.3992
+28-09-2023,214,France,"Sport-100 Helmet, Red",34.99,2.7992
+01-10-2023,528,India,Mountain Tire Tube,4.99,0.3992
+03-10-2023,491,France,"Short-Sleeve Classic Jersey, XL",53.99,4.3192
+03-10-2023,539,France,ML Road Tire,24.99,1.9992
+03-10-2023,476,Germany,"Women's Mountain Shorts, L",69.99,5.5992
+04-10-2023,485,Canada,Fender Set - Mountain,21.98,1.7584
+06-10-2023,361,India,"Mountain-200 Black, 42",2294.99,183.5992
+09-10-2023,361,Germany,"Mountain-200 Black, 42",2294.99,183.5992
+10-10-2023,352,Germany,"Mountain-200 Silver, 38",2071.4196,165.7136
+13-10-2023,478,Canada,Mountain Bottle Cage,9.99,0.7992
+14-10-2023,478,Germany,Mountain Bottle Cage,9.99,0.7992
+16-10-2023,483,Australia,Hitch Rack - 4-Bike,120,9.6
+17-10-2023,363,United States,"Mountain-200 Black, 46",2294.99,183.5992
+18-10-2023,480,Canada,Patch Kit/8 Patches,2.29,0.1832
+18-10-2023,372,France,"Road-250 Red, 58",2443.35,195.468
+18-10-2023,475,Germany,"Women's Mountain Shorts, M",69.99,5.5992
+22-10-2023,477,United States,Water Bottle - 30 oz.,4.99,0.3992
+22-10-2023,465,United States,"Half-Finger Gloves, M",24.49,1.9592
+24-10-2023,595,Canada,"Mountain-500 Silver, 52",564.99,45.1992
+24-10-2023,376,Canada,"Road-250 Black, 48",2443.35,195.468
+25-10-2023,488,India,"Short-Sleeve Classic Jersey, S",53.99,4.3192
+26-10-2023,541,India,Touring Tire,28.99,2.3192
+26-10-2023,535,Italy,LL Mountain Tire,24.99,1.9992
+27-10-2023,477,United States,Water Bottle - 30 oz.,4.99,0.3992
+29-10-2023,234,Italy,"Long-Sleeve Logo Jersey, L",49.99,3.9992
+30-10-2023,574,India,"Touring-1000 Blue, 50",2384.07,190.7256
+31-10-2023,491,Australia,"Short-Sleeve Classic Jersey, XL",53.99,4.3192
+04-11-2023,537,Italy,HL Mountain Tire,35,2.8
+05-11-2023,231,Canada,"Long-Sleeve Logo Jersey, M",49.99,3.9992
+05-11-2023,480,United States,Patch Kit/8 Patches,2.29,0.1832
+06-11-2023,480,France,Patch Kit/8 Patches,2.29,0.1832
+07-11-2023,480,Italy,Patch Kit/8 Patches,2.29,0.1832
+08-11-2023,575,Italy,"Touring-1000 Blue, 54",2384.07,190.7256
+08-11-2023,530,Italy,Touring Tire Tube,4.99,0.3992
+09-11-2023,528,France,Mountain Tire Tube,4.99,0.3992
+10-11-2023,529,India,Road Tire Tube,3.99,0.3192
+10-11-2023,311,United States,"Road-150 Red, 44",3578.27,286.2616
+15-11-2023,540,Germany,HL Road Tire,32.6,2.608
+16-11-2023,477,India,Water Bottle - 30 oz.,4.99,0.3992
+17-11-2023,477,France,Water Bottle - 30 oz.,4.99,0.3992
+17-11-2023,583,France,"Road-350-W Yellow, 48",1700.99,136.0792
+18-11-2023,363,France,"Mountain-200 Black, 46",2294.99,183.5992
+18-11-2023,476,United States,"Women's Mountain Shorts, L",69.99,5.5992
+19-11-2023,333,India,"Road-650 Black, 58",782.99,62.6392
+19-11-2023,337,Germany,"Road-650 Black, 62",782.99,62.6392
+23-11-2023,225,India,AWC Logo Cap,8.99,0.7192
+23-11-2023,529,United States,Road Tire Tube,3.99,0.3192
+23-11-2023,478,Australia,Mountain Bottle Cage,9.99,0.7992
+24-11-2023,477,India,Water Bottle - 30 oz.,4.99,0.3992
+27-11-2023,580,India,"Road-350-W Yellow, 40",1700.99,136.0792
